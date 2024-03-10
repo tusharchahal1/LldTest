@@ -1,13 +1,13 @@
-package com.spring.LldTest;
+package com.spring.LLDTest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LldTestApplication {
+public class LLDTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LldTestApplication.class, args);
+		SpringApplication.run(LLDTestApplication.class, args);
 		System.out.println("Hello Spring");
 	}
 
